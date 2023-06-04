@@ -103,7 +103,7 @@ function Formular() {
               Numar de telefon*
             </label>
             <input
-              className="block w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
+              className="block text-black w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
               type="text"
               name="phone"
               value={values.phone}
@@ -116,7 +116,7 @@ function Formular() {
               Localitate
             </label>
             <input
-              className="block w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
+              className="block text-black w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
               type="text"
               name="localitate"
               value={values.localitate}
@@ -128,7 +128,7 @@ function Formular() {
               Judet
             </label>
             <input
-              className="block w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
+              className="block text-black w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
               type="text"
               name="judet"
               value={values.judet}
@@ -140,7 +140,7 @@ function Formular() {
               Ocupatie*
             </label>
             <input
-              className="block w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
+              className="block text-black w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
               type="text"
               name="ocupatie"
               value={values.ocupatie}
@@ -153,7 +153,7 @@ function Formular() {
               Mesaj (optional)
             </label>
             <textarea
-              className="block w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
+              className="block text-black w-full bg-white border border-gray-300 rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white"
               name="mesaj"
               value={values.mesaj}
               onChange={handleChange}
