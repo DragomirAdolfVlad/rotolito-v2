@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281.318" height="62.997" viewBox="0 0 281.318 62.997">
+  <g id="Group_225" data-name="Group 225" transform="translate(0 0)">
+    <g id="Group_1" data-name="Group 1" transform="translate(27.908)">
+      <path id="Path_1" data-name="Path 1" d="M209.126,183.528v.546a17.053,17.053,0,0,1-1.317,33.629v.109l1.317.817,21.837,16.042V183.528Z" transform="translate(-207.809 -183.528)" fill="#0e136c"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 0.2)">
+      <path id="Path_2" data-name="Path 2" d="M205.609,234.63l-14.032-10.57c-1.159-.542-1.2-1.213-.464-1.392,6.11-1.489,14.288-6.5,14.495-19.7S192.2,183.69,192.2,183.69h-6.908v14.25c.061,0,.118-.017.179-.017a5.483,5.483,0,0,1,0,10.966c-.062,0-.119-.016-.179-.019l-.038,25.76Z" transform="translate(-185.255 -183.69)" fill="#0e136c"/>
+    </g>
+    <text id="ROT" transform="translate(69.568 40.016)" fill="#0e136c" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ROT</tspan></text>
+    <text id="OLIT" transform="translate(155.992 40.016)" fill="#0e136c" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">OLIT</tspan></text>
+    <text id="O" transform="translate(249.318 40.016)" fill="#0e136c" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    <text id="Romania" transform="translate(71.443 59.997)" fill="#0e136c" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Romania</tspan></text>
+  </g>
+</svg>

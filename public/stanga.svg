@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Group_28" data-name="Group 28" transform="translate(-5700 -1168)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(5700 1168)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-chevron-left" data-name="Icon awesome-chevron-left" d="M2.334,14.135,13.42,3.049a1.369,1.369,0,0,1,1.936,0l1.293,1.293a1.369,1.369,0,0,1,0,1.934L7.865,15.1l8.786,8.827a1.369,1.369,0,0,1,0,1.934l-1.293,1.293a1.369,1.369,0,0,1-1.936,0L2.334,16.071A1.369,1.369,0,0,1,2.334,14.135Z" transform="translate(5716.52 1180.155)" fill="#707070"/>
+  </g>
+</svg>

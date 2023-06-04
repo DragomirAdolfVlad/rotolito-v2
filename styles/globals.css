@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container {
+      @apply min-w-[99%] lg:min-w-[0%] 2xl:max-w-[71%] px-3 sm:px-20 self-center;
+    }
+    html {
+      font-family: Sans, Source Sans Pro, sans-serif, Open Sans;
+    }
+  }
