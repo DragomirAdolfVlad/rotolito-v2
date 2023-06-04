@@ -49,7 +49,7 @@ function Navbar() {
             <Link href="#cariere">
             <span className="p-2 text-[#707070] font-semibold cursor-pointer hover:text-[#0E136C] ease-in duration-200">Cariere</span>
             </Link>
-            <Link href="/hr">
+            <Link href="https://www.rotolitolombarda.it/en">
             <span className="relative">
             <span className="ml-4 px-5 py-7 bg-[#0E136C] text-white font-semibold cursor-pointer flex items-center">
                 Home
