@@ -22,7 +22,7 @@ function Navbar() {
           </div>
         </div>
         <div className="container mx-auto h-20 flex flex-wrap items-center justify-between flex-grow">
-          <div className="flex w-auto h-auto">
+          <div className="flex w-[160px] md:w-auto h-auto">
             <Image
               className="cursor-pointer"
               priority
